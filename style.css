@@ -71,6 +71,7 @@ button:active {
  }
  @media (max-width:780px){
     *{
+        font-family: 'Times New Roman', Times, serif;
         font-size: 70px;
     }
     button {
