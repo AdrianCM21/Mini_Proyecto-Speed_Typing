@@ -1,9 +1,9 @@
-const frases=['Los ordenadores son inútiles. Sólo pueden darte respuestas',
+const frases=['Los ordenadores son inutiles. Solo pueden darte respuestas',
 'Los ordenadores se hacen cada vez más inteligentes',
 'Tener la conciencia limpia es señal de mala memoria',
 'La verdad absoluta no existe, y esto es absolutamente cierto',
-'Solo quería decirte que a alguien le importa, no a mí, pero a alguien sí le importa',
-'Lo siento, si tuvieras razón, estaría de acuerdo contigo',
+'Solo quería decirte que a alguien le importa, no a mi, pero a alguien si le importa',
+'Lo siento, si tuvieras razon, estaría de acuerdo contigo',
 'El peor enemigo de un programador el usuario'];
 const texto = document.getElementById('text');
 const mensaje = document.getElementById('mensa');

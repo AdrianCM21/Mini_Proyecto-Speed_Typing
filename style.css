@@ -75,18 +75,18 @@ button:active {
         font-size: 50px;
     }
     button {
-        width: 600px;
-        margin-top: 300px;
-        margin-left: -100px;
+        width: 100%;
+        margin-top: 80%;
+        margin-left: -15px;
     }
     input{
-        width: 500px;
-        margin-left: -70px;
+        width: 80%;
+        height: 100px;
     }
     .conten{
         height: 80%;
         width: 90%;
-        gap: 10;
+        gap: 5;
     }
     
  }
